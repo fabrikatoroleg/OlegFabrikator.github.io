@@ -1,0 +1,20 @@
+h1 {
+    font-size: 30px;
+}
+
+.text {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.links span {
+    display: block;
+    margin-bottom: 1px;
+    font-size: 14px;
+}
+
+.wrapper>img {
+    float: right;
+    margin: 0px 700px 0 10px;
+
+}
